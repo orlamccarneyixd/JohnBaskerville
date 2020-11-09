@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="author" content="Paul McCormack">
     <title>John Baskerville Version 2</title>
-    <link href="johnbaskerville.css" type="text/css" rel="stylesheet" />
+    <link href="css/johnbaskerville.css" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
