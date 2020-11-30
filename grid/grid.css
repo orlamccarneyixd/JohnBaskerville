@@ -1,0 +1,30 @@
+body{
+  background: #f0f0f0;
+  color: #333;
+  line-height: 1.8em;
+
+}
+
+article{
+  background: #fff;
+  padding: 10px;
+  height: 400px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 15px;
+  grid-auto-rows: minmax(300px auto);
+}
+
+
+section{
+  background: #c06;
+  color: #333;
+  padding: 10px;
+
+}
+.purple { background: #a3779f;}
+
+p{
+  margin: 5px;
+  color: #fff;
+}
